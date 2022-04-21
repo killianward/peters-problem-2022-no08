@@ -1,0 +1,6 @@
+In a downtown café each table has 3 legs and each chair has 4 legs.
+There are 6 members of staff.
+There are 2 chairs at half the tables and 4 chairs at the other half.
+At a certain time, two thirds of the chairs are occupied by costumers.
+Each person in the café has 2 legs. There are 582 legs altogether in the café.
+How many chairs does the café have?
